@@ -15,6 +15,7 @@ function TenPrint(x,y,dx,dy){
     this.y = y;
     this.dx = dx;
     this.dy = dy;
+    
 
     this.draw = function(){
         c.beginPath();
